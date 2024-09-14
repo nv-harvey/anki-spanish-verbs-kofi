@@ -1,0 +1,362 @@
+[
+  {
+    "verb": "ser",
+    "translation": "to be",
+    "definition": "Existir o tener lugar una cosa, especialmente lo que constituye la esencia o naturaleza de alguien o algo."
+  },
+  {
+    "verb": "haber",
+    "translation": "to have (auxiliary)",
+    "definition": "Se usa como verbo auxiliar para formar los tiempos compuestos de los verbos."
+  },
+  {
+    "verb": "estar",
+    "translation": "to be (temporary)",
+    "definition": "Tener una persona o cosa una posición o situación temporal."
+  },
+  {
+    "verb": "hablar",
+    "translation": "to speak",
+    "definition": "Comunicar o expresar algo a través de palabras."
+  },
+  {
+    "verb": "deber",
+    "translation": "to owe; must",
+    "definition": "Tener una obligación o responsabilidad moral o legal."
+  },
+  {
+    "verb": "vivir",
+    "translation": "to live",
+    "definition": "Tener vida o existir, o estar en un lugar habitualmente."
+  },
+  {
+    "verb": "tener",
+    "translation": "to have",
+    "definition": "Poseer, disponer de algo o una característica."
+  },
+  {
+    "verb": "decir",
+    "translation": "to say",
+    "definition": "Expresar con palabras una idea o sentimiento."
+  },
+  {
+    "verb": "hacer",
+    "translation": "to do, to make",
+    "definition": "Realizar una acción o crear algo."
+  },
+  {
+    "verb": "poder",
+    "translation": "to be able to",
+    "definition": "Tener la capacidad o habilidad de hacer algo."
+  },
+  {
+    "verb": "ir",
+    "translation": "to go",
+    "definition": "Moverse de un lugar a otro."
+  },
+  {
+    "verb": "dar",
+    "translation": "to give",
+    "definition": "Transferir, ofrecer o entregar algo a alguien."
+  },
+  {
+    "verb": "ver",
+    "translation": "to see",
+    "definition": "Percibir algo con los ojos."
+  },
+  {
+    "verb": "saber",
+    "translation": "to know",
+    "definition": "Tener conocimiento o información sobre algo."
+  },
+  {
+    "verb": "querer",
+    "translation": "to want, to love",
+    "definition": "Desear o tener afecto por algo o alguien."
+  },
+  {
+    "verb": "creer",
+    "translation": "to believe",
+    "definition": "Aceptar como verdadero algo que no se puede comprobar."
+  },
+  {
+    "verb": "poner",
+    "translation": "to put",
+    "definition": "Colocar algo en un lugar o situación."
+  },
+  {
+    "verb": "parecer",
+    "translation": "to seem",
+    "definition": "Dar la impresión de ser o estar algo de una determinada manera."
+  },
+  {
+    "verb": "seguir",
+    "translation": "to follow",
+    "definition": "Ir o estar detrás de algo o alguien, o continuar haciendo algo."
+  },
+  {
+    "verb": "pensar",
+    "translation": "to think",
+    "definition": "Formar o tener ideas en la mente."
+  },
+  {
+    "verb": "venir",
+    "translation": "to come",
+    "definition": "Moverse o dirigirse hacia el lugar donde está el hablante."
+  },
+  {
+    "verb": "encontrar",
+    "translation": "to find",
+    "definition": "Dar con algo o alguien que se busca."
+  },
+  {
+    "verb": "salir",
+    "translation": "to leave",
+    "definition": "Irse de un lugar o terminar algo."
+  },
+  {
+    "verb": "volver",
+    "translation": "to return",
+    "definition": "Regresar a un lugar después de haber salido."
+  },
+  {
+    "verb": "sentir",
+    "translation": "to feel",
+    "definition": "Percibir sensaciones o emociones."
+  },
+  {
+    "verb": "producir",
+    "translation": "to produce",
+    "definition": "Crear o generar algo."
+  },
+  {
+    "verb": "buscar",
+    "translation": "to search for",
+    "definition": "Intentar encontrar algo o a alguien."
+  },
+  {
+    "verb": "oír",
+    "translation": "to hear",
+    "definition": "Percibir sonidos con el sentido del oído."
+  },
+  {
+    "verb": "entender",
+    "translation": "to understand",
+    "definition": "Comprender el significado de algo."
+  },
+  {
+    "verb": "morir",
+    "translation": "to die",
+    "definition": "Dejar de vivir o perder la vida."
+  },
+  {
+    "verb": "caer",
+    "translation": "to fall",
+    "definition": "Perder el equilibrio o bajar de nivel de manera inesperada."
+  },
+  {
+    "verb": "jugar",
+    "translation": "to play",
+    "definition": "Participar en actividades recreativas o deportivas."
+  },
+  {
+    "verb": "elegir",
+    "translation": "to choose",
+    "definition": "Seleccionar o tomar una decisión entre varias opciones."
+  },
+  {
+    "verb": "traer",
+    "translation": "to bring",
+    "definition": "Llevar algo o a alguien hacia el lugar en que está el hablante."
+  },
+  {
+    "verb": "andar",
+    "translation": "to walk",
+    "definition": "Desplazarse de un lugar a otro caminando."
+  },
+  {
+    "verb": "incluir",
+    "translation": "to include",
+    "definition": "Incorporar algo como parte de un conjunto."
+  },
+  {
+    "verb": "valer",
+    "translation": "to be worth",
+    "definition": "Tener un determinado valor o utilidad."
+  },
+  {
+    "verb": "reunir",
+    "translation": "to gather",
+    "definition": "Juntar o agrupar personas o cosas."
+  },
+  {
+    "verb": "actuar",
+    "translation": "to act",
+    "definition": "Realizar una acción o desempeñar un papel."
+  },
+  {
+    "verb": "caber",
+    "translation": "to fit",
+    "definition": "Poder entrar o ser contenido en un espacio."
+  },
+  {
+    "verb": "enviar",
+    "translation": "to send",
+    "definition": "Hacer llegar algo a un destinatario."
+  },
+  {
+    "verb": "adquirir",
+    "translation": "to acquire",
+    "definition": "Obtener o conseguir algo."
+  },
+  {
+    "verb": "coger",
+    "translation": "to take",
+    "definition": "Tomar o agarrar algo con la mano."
+  },
+  {
+    "verb": "sonreír",
+    "translation": "to smile",
+    "definition": "Mostrar alegría o satisfacción mediante una expresión facial."
+  },
+  {
+    "verb": "prohibir",
+    "translation": "to prohibit",
+    "definition": "Impedir o no permitir algo."
+  },
+  {
+    "verb": "oler",
+    "translation": "to smell",
+    "definition": "Percibir olores mediante el sentido del olfato."
+  },
+  {
+    "verb": "asir",
+    "translation": "to grasp",
+    "definition": "Tomar algo con la mano firmemente."
+  },
+  {
+    "verb": "lucir",
+    "translation": "to shine",
+    "definition": "Brillar o destacar por su apariencia."
+  },
+  {
+    "verb": "aislar",
+    "translation": "to isolate",
+    "definition": "Apartar o separar de los demás."
+  },
+  {
+    "verb": "adecuar",
+    "translation": "to adjust",
+    "definition": "Modificar algo para que sea apropiado o adecuado a una situación."
+  },
+  {
+    "verb": "averiguar",
+    "translation": "to find out",
+    "definition": "Descubrir o investigar algo."
+  },
+  {
+    "verb": "bendecir",
+    "translation": "to bless",
+    "definition": "Invocar protección divina sobre algo o alguien."
+  },
+  {
+    "verb": "complacer",
+    "translation": "to please",
+    "definition": "Hacer algo que satisface o agrada a alguien."
+  },
+  {
+    "verb": "pudrir",
+    "translation": "to rot",
+    "definition": "Descomponer algo por la acción del tiempo o de microorganismos."
+  },
+  {
+    "verb": "predecir",
+    "translation": "to predict",
+    "definition": "Anunciar de manera anticipada algo que sucederá en el futuro."
+  },
+  {
+    "verb": "yacer",
+    "translation": "to lie (in a grave)",
+    "definition": "Estar acostado o enterrado en un lugar."
+  },
+  {
+    "verb": "erguir",
+    "translation": "to raise, to stand up",
+    "definition": "Poner algo en posición recta o erguida."
+  },
+  {
+    "verb": "aunar",
+    "translation": "to unite",
+    "definition": "Juntar o combinar esfuerzos o recursos."
+  },
+  {
+    "verb": "rehusar",
+    "translation": "to refuse",
+    "definition": "Negarse a aceptar algo."
+  },
+  {
+    "verb": "errar",
+    "translation": "to err",
+    "definition": "Cometer un error o equivocarse."
+  },
+  {
+    "verb": "engullir",
+    "translation": "to gobble",
+    "definition": "Comer algo apresuradamente y sin masticar bien."
+  },
+  {
+    "verb": "discernir",
+    "translation": "to discern",
+    "definition": "Distinguir entre varias cosas con claridad."
+  },
+  {
+    "verb": "gruñir",
+    "translation": "to grunt",
+    "definition": "Emitir un sonido ronco o de descontento."
+  },
+  {
+    "verb": "endeudarse",
+    "translation": "to get into debt",
+    "definition": "Contraer una deuda o tener obligaciones financieras pendientes."
+  },
+  {
+    "verb": "delinquir",
+    "translation": "to commit a crime",
+    "definition": "Cometer un acto ilegal o delictivo."
+  },
+  {
+    "verb": "argüir",
+    "translation": "to argue",
+    "definition": "Exponer razones o argumentos a favor o en contra de algo."
+  },
+  {
+    "verb": "reñir",
+    "translation": "to quarrel",
+    "definition": "Discutir o pelearse verbalmente con alguien."
+  },
+  {
+    "verb": "corroer",
+    "translation": "to corrode",
+    "definition": "Desgastar algo lentamente, especialmente por la acción química."
+  },
+  {
+    "verb": "tañer",
+    "translation": "to play (a musical instrument)",
+    "definition": "Tocar un instrumento musical, especialmente de cuerda o percusión."
+  },
+  {
+    "verb": "prohijar",
+    "translation": "to foster",
+    "definition": "Adoptar o proteger como propio a alguien o algo."
+  },
+  {
+    "verb": "raer",
+    "translation": "to scrape",
+    "definition": "Raspar una superficie para quitar algo."
+  },
+  {
+    "verb": "europeizar",
+    "translation": "to Europeanize",
+    "definition": "Adaptar o hacer que algo o alguien adopte características europeas."
+  }
+]
